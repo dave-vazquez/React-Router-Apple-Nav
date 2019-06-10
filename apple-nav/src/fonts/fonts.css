@@ -1,0 +1,14 @@
+@font-face {
+  font-family: SFProTextLight;
+  src: url(./SF-Pro-Text-Light.otf);
+}
+
+@font-face {
+  font-family: SFProTextMedium;
+  src: url(./SF-Pro-Text-Medium.otf);
+}
+
+@font-face {
+  font-family: Roboto;
+  src: url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
+}
